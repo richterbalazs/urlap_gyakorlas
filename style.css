@@ -14,5 +14,4 @@ input[type=submit]{
 /* Az aktuális íródó mező tulajdonsága */
 input[type=text]:focus{
     background-color: lightblue;
-
 }
